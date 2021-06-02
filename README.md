@@ -125,5 +125,4 @@ The project comes with the auto-public repository configured. To setup the repos
 
     http://helpx.adobe.com/experience-manager/kb/SetUpTheAdobeMavenRepository.html
 =======
-# telefonica-poc
->>>>>>> ead8990329a9674c93f6af681a2406f47ff3b580
+
