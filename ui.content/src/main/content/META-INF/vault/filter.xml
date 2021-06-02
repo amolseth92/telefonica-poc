@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/bofa" mode="merge"/>
+    <filter root="/content/bofa" mode="merge"/>
+    <filter root="/content/dam/bofa" mode="merge"/>
+    <filter root="/content/experience-fragments/bofa" mode="merge"/>
+</workspaceFilter>
